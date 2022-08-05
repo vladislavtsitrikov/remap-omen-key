@@ -10,7 +10,9 @@ Download [custom-client.exe](https://github.com/jingyu9575/remap-omen-key/releas
 Update 2022 (pseudo version 1.2)
 ============
 [EN] Correct for use on HP Victus Laptop
+
 [RU] Испраления для работы на HP Victus Laptop
+
 Client tested on
 * Laptop HP Victus 16.1 (2021)
 * HP System Event Utility 1.2.15.0 (from Microsoft Store)
